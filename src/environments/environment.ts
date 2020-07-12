@@ -5,7 +5,21 @@
 export const environment = {
   production: false
 };
+// const mockBackendModule = require('angular-in-memory-web-api').InMemoryWebApiModule;
 
+// let IMPORTS: any[] = [];
+
+// IMPORTS.push(
+// mockBackendModule.forRoot(
+//  require('../app/mocks/in-memory-backend').InMemoryBackend,{
+//   apiBase: '/',
+//   host: '/',
+//   passThruUnknownUrl: true
+// }
+// )
+// );
+
+//export const ENV_IMPORTS = IMPORTS;
 /*
  * For easier debugging in development mode, you can import the following file
  * to ignore zone related error stack frames such as `zone.run`, `zoneDelegate.invokeTask`.
