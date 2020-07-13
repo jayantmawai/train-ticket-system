@@ -201,7 +201,7 @@ export const mockResponse: BookTicketResponseModel = {
     "bookedBy": "",
     "gender": "",
     "row": 4
-  }
+  },
   {
     "seatNo": 26,
     "status": "booked",
